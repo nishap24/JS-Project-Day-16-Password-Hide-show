@@ -15,7 +15,7 @@ Password Hide/Show: Easily toggle password visibility with a click. Customize ey
 
 Live Demo:
 
-    
+https://nishap24.github.io/JS-Project-Day-16-Password-Hide-show/    
   
 ## Getting Started
 
