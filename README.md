@@ -49,6 +49,11 @@ Enhance user experience by providing the option to show or hide passwords secure
 6. Straightforward code structure for easy modification and extension.
 
 7. Enhance password input usability and user privacy with this convenient feature.
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7513b59-0e7c-4a09-8625-613cc60e25f1/deploy-status)](https://app.netlify.com/sites/kanasu-password-hide-or-show/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
